@@ -6,5 +6,6 @@ Esta capacitação tem como objetivo capacitar os membros do Laboratório de Rob
 
 #### Alunos desta capacitação
 Os alunos desta capacitação devem ser capazes de editar este arquivo e colocar seus nomes nesta lista.
+* Daniel Martins
 * Rafael Pötter Wachholz
 * Kenner Marqueti Couto
